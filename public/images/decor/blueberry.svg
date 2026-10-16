@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img">
+<circle cx="50" cy="54" r="38" fill="#4B4FA3"/>
+<circle cx="50" cy="54" r="38" fill="#7C80D0" opacity=".25"/>
+<path d="M50 34L56 44L67 42L60 51L66 61L55 57L50 67L45 57L34 61L40 51L33 42L44 44Z" fill="#2F3277"/>
+<ellipse cx="34" cy="38" rx="8" ry="5" fill="#B8BBF0" opacity=".55" transform="rotate(-35 34 38)"/>
+</svg>

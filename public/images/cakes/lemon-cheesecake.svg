@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img"><rect width="600" height="750" fill="#FBE2A8"/><circle cx="300" cy="372" r="262" fill="#FFFFFF" opacity=".28"/>
+<ellipse cx="300" cy="586" rx="232" ry="46" fill="#3A2417" opacity=".12"/>
+<ellipse cx="300" cy="560" rx="226" ry="50" fill="#FFFDF9"/>
+<ellipse cx="300" cy="556" rx="176" ry="34" fill="#F1E3D3"/>
+<rect x="180" y="494" width="240" height="56" rx="10" fill="#F0D59B"/>
+<rect x="176" y="474" width="248" height="22" rx="11" fill="#FFF3C7"/>
+<rect x="180" y="428" width="240" height="50" rx="8" fill="#F0D59B"/>
+<rect x="176" y="406" width="248" height="24" rx="12" fill="#FFF3C7"/>
+<rect x="180" y="360" width="240" height="50" rx="8" fill="#F0D59B"/>
+<rect x="172" y="334" width="256" height="30" rx="15" fill="#FFF9E3"/>
+<rect x="190" y="340" width="70" height="8" rx="4" fill="#FFFFFF" opacity=".35"/>
+<circle cx="300" cy="320" r="34" fill="#F7DD5C" stroke="#F2C230" stroke-width="6"/><path d="M300 288v64M268 320h64M277 297l46 46M323 297l-46 46" stroke="#F2C230" stroke-width="3"/><ellipse cx="352" cy="300" rx="22" ry="9" fill="#5C9A44" transform="rotate(-30 352 300)"/>
+</svg>
